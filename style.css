@@ -1,0 +1,25 @@
+main{
+    padding-top: 150px;
+    width: 750px;
+    height: 1350px;
+    margin: auto;
+    font-size: 21px;
+    box-shadow: 40px 30px 30px 40px blueviolet;
+}
+.tytul{
+    text-decoration-line: overline;
+
+}
+body{
+    
+    background-color:darkcyan;
+    color: white;
+    
+}
+h2{
+text-decoration-line: underline;
+}
+.klasa{
+    color: blue;
+    text-decoration-line:underline;
+}
